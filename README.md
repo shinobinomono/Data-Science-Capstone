@@ -1,6 +1,8 @@
 # Data-Science-Capstone
 Final Project for IBM Data Science Program
 
-Started on Halloween 2021
+IBMデータサイエンスプロフェショナル認定の卒業プロジェクト
+
+ラボと最終プレゼンテーション
 
 
